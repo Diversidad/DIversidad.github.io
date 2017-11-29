@@ -1,0 +1,39 @@
+.nav-wrapper{
+	background-color: #666666;
+	position: fixed;
+}
+
+.nav-wrapper a{
+	font-weight: bold;
+}
+
+.banner{
+	padding-top: 50px;
+	background-image: url(../diff.jpeg);
+	background-repeat: no-repeat;
+	height: 500px;
+	background-position: center;
+	padding-bottom: 50px;
+}
+
+.banner h3{
+	font-size: 60px;
+}
+
+.banner p{
+	font-size: 20px;
+}
+
+.main{
+	padding-left: 200px;
+	padding-right: 500px;
+	text-align: justify;
+}
+
+.main h3{
+	font-weight: bold;
+}
+
+.postMain{
+	font-size: 20px;
+}
